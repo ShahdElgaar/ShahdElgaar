@@ -1,4 +1,4 @@
-I am intrested in data analysis and transforming raw data into meaningful insights. I enjoy working with real-world datasets,
+I am inetrested in data analysis and transforming raw data into meaningful insights. I enjoy working with real-world datasets,
 focusing on data cleaning, exploratory data analysis, visualization, and building analytical models to support data-driven decision-making.
 
 I have experience using Jupyter notebook, Python and popular data analysis libraries such as Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn.
